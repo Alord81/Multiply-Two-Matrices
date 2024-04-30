@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SP 8 - Multiply Two Matrices", "SP 8 - Multiply Two Matrices\SP 8 - Multiply Two Matrices.vcxproj", "{93352783-A139-4FA1-9FAB-6F7C87CB7FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93352783-A139-4FA1-9FAB-6F7C87CB7FF5}.Debug|x64.ActiveCfg = Debug|x64
+		{93352783-A139-4FA1-9FAB-6F7C87CB7FF5}.Debug|x64.Build.0 = Debug|x64
+		{93352783-A139-4FA1-9FAB-6F7C87CB7FF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{93352783-A139-4FA1-9FAB-6F7C87CB7FF5}.Debug|x86.Build.0 = Debug|Win32
+		{93352783-A139-4FA1-9FAB-6F7C87CB7FF5}.Release|x64.ActiveCfg = Release|x64
+		{93352783-A139-4FA1-9FAB-6F7C87CB7FF5}.Release|x64.Build.0 = Release|x64
+		{93352783-A139-4FA1-9FAB-6F7C87CB7FF5}.Release|x86.ActiveCfg = Release|Win32
+		{93352783-A139-4FA1-9FAB-6F7C87CB7FF5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EE9113E-C53F-4185-AC7A-B567A2558E8E}
+	EndGlobalSection
+EndGlobal
